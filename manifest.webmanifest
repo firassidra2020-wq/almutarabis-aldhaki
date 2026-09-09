@@ -1,0 +1,17 @@
+{
+  "name": "المتربص الذكي - دليل التعريض الضوئي",
+  "short_name": "المتربص الذكي",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101214",
+  "theme_color": "#d79a3b",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
