@@ -1,25 +1,25 @@
 {
-  "name": "المتربص الذكي",
+  "name": "المتربص الذكي PRO",
   "short_name": "المتربص الذكي",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#101214",
-  "theme_color": "#d79a3b",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0b4ea2",
   "lang": "ar",
   "dir": "rtl",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "assets/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "assets/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "description": "دليل التعريض الضوئي الذكي وفق المقاربة بالكفاءات APC"
+  "description": "منصة تدريب وتقييم وفق المقاربة بالكفاءات APC"
 }
